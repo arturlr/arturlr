@@ -12,7 +12,7 @@ const artur_rodrigues = {
         twitter: "https://twitter.com/arturlr",
         ubc_cic_projects: "https://cic.ubc.ca/projects/"
     },
-    interests: ["serverless", "vuejs", aws, "amplify", "soccer", "photography"]
+    interests: ["serverless", "vuejs", "aws", "amplify", "soccer", "photography"]
     message: "I am a simple man with complex taste"
 }
 
