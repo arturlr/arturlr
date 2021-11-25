@@ -18,8 +18,12 @@ const artur_rodrigues = {
 
 ```
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=arturlr.visitor-badge)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturlr&layout=compact)](https://github.com/arturlr/github-readme-stats)
 
+[![Linkedin Badge](https://img.shields.io/badge/arturlr-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arturlr/)  
+[![Twitter Badge](https://img.shields.io/badge/arturlr-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/arturlr)
 
 <!--
 **arturlr/arturlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
